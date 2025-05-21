@@ -1,14 +1,15 @@
+from flask import Flask, render_template, request
+import pandas as pd
 import pickle
 
-import pandas as pd
-from flask import Flask, render_template, request
+# import sklearn
 
 # setar pasta com html e com imagens, css...
 app = Flask(__name__, template_folder='template',
             static_folder='template/assets')
 
 # Uma vez treinado o modelo (nuvem etc.) e exportado, pode-se ler para predições
-model_rfc = pickle.load(open('./models/model_rfc.pkl', 'rb'))
+model_rfc = pickle.load(open('./models/pipe.pkl', 'rb'))
 
 
 @app.route('/')
@@ -25,6 +26,8 @@ def get_data():
     tenure = request.form.get('tenure')
     MonthlyCharges = request.form.get('MonthlyCharges')
     TotalCharges = request.form.get('TotalCharges')
+    # print('TotalCharge')
+    # print(TotalCharges)
     gender = request.form.get('gender')
     SeniorCitizen = request.form.get('SeniorCitizen')
     Partner = request.form.get('Partner')
@@ -64,7 +67,12 @@ def show_data():
              'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV',
              'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod',
              'MonthlyCharges', 'TotalCharges']]
-
+    print(df.dtypes)
+    df['TotalCharges'] = df['TotalCharges'].astype(float)
+    df['MonthlyCharges'] = df['MonthlyCharges'].astype(float)
+    df['tenure'] = df['tenure'].astype(float)
+    df['SeniorCitizen'] = df['SeniorCitizen'].astype(int)
+    print(df.dtypes)
     prediction = model_rfc.predict(df)
     outcome = 'Atenção, cliente potencial de nos deixar...vamos ligar para ele'
     imagem = 'chefe_brabo.jpg'
