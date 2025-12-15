@@ -1,0 +1,32 @@
+Projetos Finais - Aprendizagem de Máquina 2024.2@tads-ufrn
+Prof. Josenalde Barbosa de Oliveira
+-----------------------------------
+Emanuel Italo Felix da Silva
+a) Não supervisionado: segmentação de imagens com k-means: https://youtu.be/TJ6hxamey_s
+Docs: https://colab.research.google.com/drive/1D4_aNk_9L_7q6ZtXMIxfGM2ndh6g4oTP?usp=sharing
+b) Supervisionado: detecção de gestos-letras em LIBRAS: https://www.youtube.com/watch?v=BWg2WXIvOI8
+Docs: 
+
+Erick Henrique Barros da Silva
+a) Não supervisionado: https://youtu.be/Wmr9ieKnIwk
+Docs: https://github.com/Erickhbs/ml-III/tree/main/ml-III/ml-III-n
+b) Supervisionado: https://youtu.be/Wmr9ieKnIwk
+Docs: https://github.com/Erickhbs/ml-III/tree/main/ml-III/ml-III-s
+
+Joel Santana de Souza Assis
+a) Não supervisionado: Detecção de anomalias na base monetária do Brasil: https://www.youtube.com/watch?v=hZ6OVUObXGo (a partir de 9min30s)
+Docs: https://github.com/Joel-Santana03/Machine-Learning-AV3/tree/main/tarefa_nao_supervisionada
+b) Supervisionado: Classificação/Probabilidade risco de diabetes: https://www.youtube.com/watch?v=hZ6OVUObXGo
+Docs: https://github.com/Joel-Santana03/Machine-Learning-AV3/tree/main/tarefa_supervisionada
+
+Nikolaos Ferreira Daskalakis
+a) Não supervisionado: Clusterização de textos(tópicos) com k-means: https://www.youtube.com/watch?v=15c7XAQtEl8
+Docs: https://colab.research.google.com/drive/1_TW-soBpyR6aIKgFWp8J9p4hMt-1vOtu?usp=sharing 
+b) Supervisionado: Modelos generativos: baseado em difusão latente 'text2image', stable-diffusion-xl": https://www.youtube.com/watch?v=kDR8IrD5SH4
+Docs: https://colab.research.google.com/drive/1Ywm43Ieh23KdyNeCW2215y2DP9Mxa-vn?usp=sharing
+
+Phelyppe Álex Vicente da Silva
+a) Não supervisionado:
+Docs:
+b) Supervisionado: Risco ataque cardíaco: 
+Docs: https://github.com/phelyppealex/projeto-final-ml/tree/main/treino-supervisionado
