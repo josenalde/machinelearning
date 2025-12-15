@@ -1,0 +1,44 @@
+Aprendizagem de Máquina - TADS UFRN 2025.2
+Arthur Lisboa
+Previsão de preços de imóveis e segmentação de mercado
+https://www.youtube.com/watch?v=jldv0VP7rts
+------------------------------------------------------
+Nicolas
+Classificação Nutricional Automática de Alimentos (parte 1)
+https://drive.google.com/file/d/19DuxNLtk01DIw8xTi0VUoySR7asdKYqw/view
+Estimativa de preços de computadores
+https://drive.google.com/file/d/19DuxNLtk01DIw8xTi0VUoySR7asdKYqw/view (parte 2)
+-------------------------------------------------------
+Pedro Davi
+SENTINELA - gestão de IA (supervisionada e agrupamento)
+https://www.youtube.com/watch?v=k4RYJWvcEus
+-------------------------------------------------------
+Vitor Silva
+Reconhecimento de pose (em pé, deitado) para suporte a cuidadores de idosos
+https://www.youtube.com/watch?v=l_GLeywdKrs
+Agrupamento de clientes em risco de Churn
+https://www.youtube.com/watch?v=hE2Ll-QJ0Og
+-----------------------------------------------------
+João Vieira
+Regras de associação compras - APRIORI
+https://www.youtube.com/watch?v=VZkqdUansG4&t=40s
+Reconhecimento de voz embarcada - TinyML
+https://www.youtube.com/watch?v=EEpstNbQOyc
+----------------------------------------------------
+José Gomes
+Reconhecimento e contagem de pessoas em filas por imagens
+URL: ?
+Detecção de fraudes em transações
+URL: ?
+----------------------------------------------------
+João Carneiro
+Estimativa de preços de aluguéis (parte 1)
+https://drive.google.com/file/d/1lalKtSD-MU63U3q1__zXpwdeEKl5iXFn/view
+Agrupamento de características de automóveis (parte 2)
+https://drive.google.com/file/d/1lalKtSD-MU63U3q1__zXpwdeEKl5iXFn/view
+-----------------------------------------------------
+André Luiz
+Chatbot para simulador de defeitos
+https://www.youtube.com/watch?v=TuJgT4Fg57s
+Agrupamento de clientes
+https://www.youtube.com/watch?v=QrjE3Bvu_d8
